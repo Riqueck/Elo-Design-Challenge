@@ -1,2 +1,1 @@
-# Elo-Design-Challenge
-Creating a Neck Mechanism
+# STL Files for 3D Printing
